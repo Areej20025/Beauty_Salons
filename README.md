@@ -1,7 +1,7 @@
-# Salon Management System
+# Beauty Salons
 
 ## Introduction
-The Salon Management System is designed to streamline the management of salons, customers, and reservations. This system enables customers to register, view, and book salon services, while salon owners can manage their services and reservations. Administrators oversee the entire system to ensure smooth operations.
+Beauty Salons  is an online platform designed to connect customers with salons. Salon owners can register, showcase their services, and manage reservations, while customers can browse salons, view services, and book appointments.Administrators oversee the entire system to ensure smooth operations.
 
 ## Features 
 •	Customer Management: Register, view, and book salon services.
