@@ -1,7 +1,15 @@
 # Salon Management System
 
 ## Introduction
-This project is a Salon Management System designed to facilitate the management of salons, customers, and reservations. The system allows customers to register, view, and book salons. Salon owners can manage their services and reservations, while admins oversee the overall system.
+The Salon Management System is designed to streamline the management of salons, customers, and reservations. This system enables customers to register, view, and book salon services, while salon owners can manage their services and reservations. Administrators oversee the entire system to ensure smooth operations.
+
+## Features 
+•	Customer Management: Register, view, and book salon services.
+
+•	Salon Owner Management: Manage salon details, services, and reservations.
+
+•	Admin Management: Oversee the entire system, including user and salon management.
+
 
 ## Database Schema
 The database schema includes the following tables:
